@@ -7,4 +7,4 @@ xhofe/alist:latest
 xiaoyaliu/alist
 python:alpine3.19
 xiaoyaliu/glue
-jellyfin./jellyfin
+jellyfin/jellyfin
