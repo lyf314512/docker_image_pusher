@@ -16,3 +16,4 @@ alpine
 library/alpine
 library/alpine:3.18.2
 alpine:3.18.2
+emby/embyserver
