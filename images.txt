@@ -14,3 +14,4 @@ amilys/embyserver
 linuxserver/resilio-sync
 alpine
 library/alpine
+library/alpine:3.18.2
