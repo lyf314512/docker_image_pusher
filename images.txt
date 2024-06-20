@@ -13,3 +13,4 @@ lovechen/embyserver
 amilys/embyserver
 linuxserver/resilio-sync
 alpine
+library/alpine
