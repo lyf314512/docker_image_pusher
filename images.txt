@@ -12,3 +12,4 @@ nyanmisaka/jellyfin
 lovechen/embyserver
 amilys/embyserver
 linuxserver/resilio-sync
+alpine
