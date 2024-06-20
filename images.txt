@@ -10,3 +10,4 @@ xiaoyaliu/glue
 jellyfin/jellyfin
 nyanmisaka/jellyfin
 lovechen/embyserver
+amilys/embyserver
