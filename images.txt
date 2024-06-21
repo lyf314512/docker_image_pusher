@@ -20,3 +20,4 @@ emby/embyserver
 nyanmisaka/jellyfin:latest-legacy
 nyanmisaka/jellyfin:220726-amd64
 nyanmisaka/jellyfin:231129-amd64
+jellyfin/jellyfin:10.7.1
