@@ -18,4 +18,4 @@ library/alpine:3.18.2
 alpine:3.18.2
 emby/embyserver
 nyanmisaka/jellyfin:latest-legacy
-
+nyanmisaka/jellyfin:220726-amd64
