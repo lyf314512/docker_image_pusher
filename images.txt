@@ -17,10 +17,5 @@ library/alpine
 library/alpine:3.18.2
 alpine:3.18.2
 emby/embyserver
-nyanmisaka/jellyfin:10.7.1
-nyanmisaka/jellyfin:10.7.0
-jellyfin/jellyfin:10.7.1
-jellyfin/jellyfin:10.7.1
 nyanmisaka/jellyfin:latest-legacy
-nyanmisaka/jellyfin:10.7
-nyanmisaka/jellyfin:220726-amd64
+
