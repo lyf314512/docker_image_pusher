@@ -21,3 +21,4 @@ nyanmisaka/jellyfin:10.7.1
 nyanmisaka/jellyfin:10.7.0
 jellyfin/jellyfin:10.7.1
 jellyfin/jellyfin:10.7.1
+nyanmisaka/jellyfin:latest-legacy
