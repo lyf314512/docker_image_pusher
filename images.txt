@@ -18,3 +18,5 @@ library/alpine:3.18.2
 alpine:3.18.2
 emby/embyserver
 nyanmisaka/jellyfin:10.7.1
+nyanmisaka/jellyfin:10.7.0
+jellyfin/jellyfin:10.7.1
